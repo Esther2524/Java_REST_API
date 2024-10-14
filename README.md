@@ -24,7 +24,7 @@ To run the application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Esther2524/Java_REST_API.git
    ```
 2. **Navigate to the Project Directory**:
    ```
